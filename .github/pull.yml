@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: main
-    upstream: togtig-org:main
+  - basex: main
+    upstreamx: togtig-org:main
     mergeMethod: hardreset
